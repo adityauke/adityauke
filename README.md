@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Javascript, React.js and python**
 
-- 📫 How to reach me **adityauke4141@gmail.com**
+- 📫 How to reach me : **adityauke4141@gmail.com**
 
-- ⚡ Fun fact **Student by Day. Coder by Night.**
+- ⚡ Fun fact: **Student by Day. Coder by Night.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
