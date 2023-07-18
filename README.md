@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Uke</h1>
 <h3 align="center">Passionate Computer Engineering Student | Front-End Developer | Contributing to a Better Tomorrow</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1yYG5lUQvn-GL5Pt05Jf7O&ust=1689759829822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjRioX8l4ADFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?w=900&t=st=1689673928~exp=1689674528~hmac=66cf6592942cbadeffc126689cad753445787e8bb596316fbea9f27d2fb25bb9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityauke&label=Profile%20views&color=0e75b6&style=flat" alt="adityauke" /> </p>
 
